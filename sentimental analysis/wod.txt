@@ -1,0 +1,248 @@
+locality,area,country,woeid
+Afghanistan,AF,AF,23424739
+Algeria,DZ,DZ,23424740
+American Samoa,AS,AS,23424746
+Andorra,AD,AD,23424744
+Angola,AO,AO,23424745
+Anguilla,AI,AI,23424751
+Antarctica,AQ,AQ,28289409
+Antigua and Barbuda,AG,AG,23424737
+Argentina,AR,AR,23424747
+Armenia,AM,AM,23424743
+Aruba,AW,AW,23424736
+Australia,AU,AU,23424748
+Azerbaijan,AZ,AZ,23424741
+Bangladesh,BD,BD,23424759
+Barbados,BB,BB,23424754
+Belarus,BY,BY,23424765
+Belgium,BE,BE,23424757
+Belize,BZ,BZ,23424760
+Benin,BJ,BJ,23424764
+Bermuda,BM,BM,23424756
+Bhutan,BT,BT,23424770
+Bolivia,BO,BO,23424762
+Bonaire, Sint Eustatius and Saba,BQ,BQ,56558056
+Bosnia and Herzegovina,BA,BA,23424761
+Botswana,BW,BW,23424755
+Bouvet Island,BV,BV,28289410
+Brazil,BR,BR,23424768
+British Indian Ocean Territory,IO,IO,23424849
+Virgin Islands (British),VG,VG,23424983
+Brunei Darussalam,BN,BN,23424773
+Bulgaria,BG,BG,23424771
+Burkina Faso,BF,BF,23424978
+Burundi,BI,BI,23424774
+Cambodia,KH,KH,23424776
+Cameroon,CM,CM,23424785
+Canada,CA,CA,23424775
+Cabo Verde,CV,CV,23424794
+Cayman Islands,KY,KY,23424783
+Central African Republic,CF,CF,23424792
+Chad,TD,TD,23424777
+Chile,CL,CL,23424782
+Christmas Island,CX,CX,23424869
+Holy See (Vatican City),VA,VA,23424986
+Cocos (Keeling) Islands,CC,CC,23424784
+Colombia,CO,CO,23424787
+Comoros,KM,KM,23424786
+Republic of Congo,CG,CG,23424779
+Cook Islands,CK,CK,23424795
+Costa Rica,CR,CR,23424791
+Cuba,CU,CU,23424793
+Curaçao,CW,CW,56558057
+Cyprus,CY,CY,26812346
+Côte d'Ivoire,CI,CI,23424854
+Denmark,DK,DK,23424796
+Democratic Republic of Congo,CD,CD,23424780
+Germany,DE,DE,23424829
+Djibouti,DJ,DJ,23424797
+Dominica,DM,DM,23424798
+Dominican Republic,DO,DO,23424800
+Ecuador,EC,EC,23424801
+Estonia,EE,EE,23424805
+El Salvador,SV,SV,23424807
+Greece,GR,GR,23424833
+Equatorial Guinea,GQ,GQ,23424804
+Eritrea,ER,ER,23424806
+Spain,ES,ES,23424950
+Ethiopia,ET,ET,23424808
+Falkland Islands,FK,FK,23424814
+Micronesia,FM,FM,23424815
+Fiji,FJ,FJ,23424813
+France,FR,FR,23424819
+French Polynesia,PF,PF,23424817
+French Southern Territories,TF,TF,28289406
+Faroe Islands,FO,FO,23424816
+Gabon,GA,GA,23424822
+Georgia,GE,GE,23424823
+Ghana,GH,GH,23424824
+Gibraltar,GI,GI,23424825
+Greenland,GL,GL,23424828
+Grenada,GD,GD,23424826
+Guadeloupe,GP,GP,23424831
+Guam,GU,GU,23424832
+Guatemala,GT,GT,23424834
+Guinea,GN,GN,23424835
+Guinea-Bissau,GW,GW,23424929
+Guyana,GY,GY,23424836
+French Guiana,GF,GF,23424811
+Haiti,HT,HT,23424839
+Heard Island and McDonald Islands,HM,HM,28289411
+Honduras,HN,HN,23424841
+Croatia,HR,HR,23424843
+India,IN,IN,23424848
+Iran,IR,IR,23424851
+Iraq,IQ,IQ,23424855
+Iraq-Saudi Arabia Neutral Zone,XE,XE,23424998
+Ireland,IE,IE,23424803
+Israel,IL,IL,23424852
+Italy,IT,IT,23424853
+Jamaica,JM,JM,23424858
+Kazakhstan,KZ,KZ,23424871
+Kenya,KE,KE,23424863
+Kiribati,KI,KI,23424867
+Kyrgyzstan,KG,KG,23424864
+Réunion,RE,RE,23424931
+Lao People's Democratic Republic,LA,LA,23424872
+Latvia,LV,LV,23424874
+Lesotho,LS,LS,23424880
+Liberia,LR,LR,23424876
+Libya,LY,LY,23424882
+Liechtenstein,LI,LI,23424879
+Lithuania,LT,LT,23424875
+Luxembourg,LU,LU,23424881
+Macao,MO,MO,20070017
+Republic of North Macedonia,MK,MK,23424890
+Madagascar,MG,MG,23424883
+Hungary,HU,HU,23424844
+Malawi,MW,MW,23424889
+Malaysia,MY,MY,23424901
+Maldives,MV,MV,23424899
+Mali,ML,ML,23424891
+Malta,MT,MT,23424897
+Marshall Islands,MH,MH,23424932
+Martinique,MQ,MQ,23424884
+Mauritania,MR,MR,23424896
+Mauritius,MU,MU,23424894
+Mayotte,YT,YT,23424886
+Moldova,MD,MD,23424885
+Monaco,MC,MC,23424892
+Mongolia,MN,MN,23424887
+Montenegro,ME,ME,20069817
+Montserrat,MS,MS,23424888
+Mozambique,MZ,MZ,23424902
+Myanmar,MM,MM,23424763
+Mexico,MX,MX,23424900
+Namibia,	NA,NA,23424987
+Nauru,NR,NR,23424912
+Netherlands,NL,NL,23424909
+Nepal,NP,NP,23424911
+New Caledonia,NC,NC,23424903
+New Zealand,NZ,NZ,23424916
+Nicaragua,NI,NI,23424915
+Niger,NE,NE,23424906
+Nigeria,NG,NG,23424908
+Niue,NU,NU,23424904
+Norfolk Island,NF,NF,23424905
+Norway,NO,NO,23424910
+North Korea,KP,KP,23424865
+Northern Mariana Islands,MP,MP,23424788
+Pakistan,PK,PK,23424922
+Palau,PW,PW,23424927
+Palestine,PS,PS,28289408
+Panama,PA,PA,23424924
+Papua New Guinea,PG,PG,23424926
+Paraguay,PY,PY,23424917
+Peru,PE,PE,23424919
+Philippines,PH,PH,23424934
+Pitcairn,PN,PN,23424918
+Poland,PL,PL,23424923
+Portugal,PT,PT,23424925
+Puerto Rico,PR,PR,23424935
+Indonesia,ID,ID,23424846
+Romania,RO,RO,23424933
+Russian Federation,RU,RU,23424936
+Rwanda,RW,RW,23424937
+Saint Kitts and Nevis,KN,KN,23424940
+Saint Pierre and Miquelon,PM,PM,23424939
+Saint Vincent and the Grenadines,VC,VC,23424981
+Saint Barthélemy,BL,BL,56042304
+Saint Martin,MF,MF,56042305
+Samoa,WS,WS,23424992
+San Marino,SM,SM,23424947
+Sao Tome and Principe,ST,ST,23424966
+Switzerland,CH,CH,23424957
+Serbia,RS,RS,20069818
+Seychelles,SC,SC,23424941
+Albania,AL,AL,23424742
+Sierra Leone,SL,SL,23424946
+Singapore,SG,SG,23424948
+Sint Maarten,SX,SX,56558058
+Slovenia,SI,SI,23424945
+Slovakia,SK,SK,23424877
+Solomon Islands,SB,SB,23424766
+Somalia,SO,SO,23424949
+South Africa,ZA,ZA,23424942
+South Georgia and the South Sandwich Islands,GS,GS,23424955
+Sri Lanka,LK,LK,23424778
+Saint Helena, Ascension and Tristan da Cunha,SH,SH,23424944
+Saint Lucia,LC,LC,23424951
+Sudan,SD,SD,23424952
+Finland,FI,FI,23424812
+Suriname,SR,SR,23424913
+Svalbard and Jan Mayen,SJ,SJ,28289413
+Sweden,SE,SE,23424954
+Eswatini,SZ,SZ,23424993
+Syrian Arab Republic,SY,SY,23424956
+Senegal,SN,SN,23424943
+Tajikistan,TJ,TJ,23424961
+Tanzania, United Republic of,TZ,TZ,23424973
+Thailand,TH,TH,23424960
+Bahamas,BS,BS,23424758
+Gambia,GM,GM,23424821
+South Sudan,SS,SS,56558055
+Timor-Leste,TL,TL,23424968
+Togo,TG,TG,23424965
+Tokelau,TK,TK,23424963
+Tonga,TO,TO,23424964
+Trinidad and Tobago,TT,TT,23424958
+Tunisia,TN,TN,23424967
+Turkey,TR,TR,23424969
+Turkmenistan,TM,TM,23424972
+Turks and Caicos Islands,TC,TC,23424962
+Tuvalu,TV,TV,23424970
+Virgin Islands (U.S.),VI,VI,23424985
+Uganda,UG,UG,23424974
+Ukraine,UA,UA,23424976
+United Kingdom of Great Britain and Northern Ireland,GB,GB,23424975
+United States of America,US,US,23424977
+United States Minor Outlying Islands,UM,UM,28289407
+Uruguay,UY,UY,23424979
+Uzbekistan,UZ,UZ,23424980
+Vanuatu,VU,VU,23424907
+Venezuela,VE,VE,23424982
+Viet Nam,VN,VN,23424984
+Wallis and Futuna,WF,WF,23424989
+Western Sahara,EH,EH,23424990
+Yemen,YE,YE,23425002
+Zambia,ZM,ZM,23425003
+Zimbabwe,ZW,ZW,23425004
+Åland Islands,AX,AX,12577865
+Iceland,IS,IS,23424845
+Austria,AT,AT,23424750
+Czechia,CZ,CZ,23424810
+Jordan,JO,JO,23424860
+United Arab Emirates,AE,AE,23424738
+Bahrain,BH,BH,23424753
+Saudi Arabia,SA,SA,23424938
+Kuwait,KW,KW,23424870
+Morocco,MA,MA,23424893
+Oman,OM,OM,23424898
+Qatar,QA,QA,23424930
+Lebanon,LB,LB,23424873
+Egypt,EG,EG,23424802
+China,CN,CN,23424781
+Japan,JP,JP,23424856
+Taiwan,TW,TW,23424971
+Hong Kong,HK,HK,24865698
+South Korea,KR,KR,23424868
