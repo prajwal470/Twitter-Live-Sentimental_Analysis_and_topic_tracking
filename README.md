@@ -129,5 +129,9 @@ $ git push heroku main # deploy code to heroku
 ```
 ### after deploy use heroku open to see your file
 
- 
+#Final thoughts and future Impovement
+- ### As i told earlier git hub's branch is main so use main delete old branch and create new one
+- ### ``` git checkout -b main ``` and to delete ```git branch -D master``` 
+- ### nltk.txt file must be created for to download stopwords and putnk
+- ### if app is craching means that twitter rate is reached so you cannot use it until a day
  
