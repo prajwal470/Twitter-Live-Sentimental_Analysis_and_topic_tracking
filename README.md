@@ -101,10 +101,33 @@ database_table="TwitterDB"
 - ## login through cmd ![](https://user-images.githubusercontent.com/68987382/164972506-4df885b5-33ed-49d7-ad81-eeeee922826a.png)
 - ## use git bash form deployment ![](https://user-images.githubusercontent.com/68987382/164972534-ff39b0aa-b89b-46b4-92b9-0d17db190bfd.png)
 
+```
+mkdir folder name
+cd folder name
 
+$ git init        # initializes an empty git repo 
+$ virtualenv venv # creates a virtualenv called "venv" 
+$ source venv/bin/activate # uses the virtualenv
+$ Heroku git: remote -a THIS-IS-YOUR-APP-NAME
 
+```
+### Create fresh python modulse inside new env
 
-
+```
+$ pip install dash 
+$ pip install plotly
+$ pip install gunicorn
+```
+### after creating requried files Procfile,requriment,runtime.
+ ```
+ Deploy app
+$ heroku create THIS-IS-YOUR-UNIQUE-APP-NAME
+$ git add .
+$ git commit -m 'Initial the app' 
+$ git push heroku main # deploy code to heroku 
+ 
+```
+### after deploy use heroku open to see your file
 
  
  
