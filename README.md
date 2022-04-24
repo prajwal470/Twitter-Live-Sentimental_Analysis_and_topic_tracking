@@ -29,19 +29,37 @@
   ACCESS_TOKEN_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   
   ```
- ## Cleaning Data
+## Cleaning Data
  
- ### Cleaning data before pushing to SQl server and making the data easy to read as the data will be unstructured and filled with unwanted emojies.
- pyspark or pandas can be used here I used pandas but i suggest spak becasuse it is better 
+ ### Cleaning data before pushing to SQl server and making the data easy to read as the data will be unstructured and filled with unwanted emojis.
+ ### pyspark or pandas can be used here I used pandas but i suggest spak becasuse it is better 
  
  
  ## point's to note and other Information
- - ## Getting User location is hard as some user dont mention the loaction
- - ## user id and user name is always different so it is best to use user id
- - ## City names may be changed or have differnt name for same city eg banglore and begaluru
- - ## while installing modules don't mix pip and conda :sweat_smile: 
- - ## best to do project in new envirnoment
+ - ### Getting User location is hard as some user dont mention the loaction
+ - ### user id and user name is always different so it is best to use user id
+ - ### City names may be changed or have differnt name for same city eg banglore and begaluru
+ - ### while installing modules don't mix pip and conda :sweat_smile: 
+ - ### best to do project in new envirnoment
+ - ### Final data should be emoji free and other unwanted items like RT , @ , # etc
+ - ### As twitter allows 500 pull while developing and 100 pulls while deploying it is better to store data in sepreate Data base  
  
- 
+## MySql Server
+ ### The MySQL server provides a database management system with querying and connectivity capabilities, as well as the ability to have excellent data structure and  integration with many different platforms. It can handle large databases reliably and quickly in high-demanding production environments.
+ ### As the definition says it's used to store data form twitter api
+
+### create local MYsql server
+
+```
+host="localhost"
+user="root"
+passwd="password"
+database_table="TwitterDB"
+
+```
+## Iput Search_words
+
+### It can be anyting the you waant to search . As i am learning flask. I will impliment instant search and get analysis mehond Soon :smile:
+### For demo i used IPl as it was ipl season
  
  
