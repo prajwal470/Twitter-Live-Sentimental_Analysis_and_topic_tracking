@@ -127,7 +127,7 @@ $ git commit -m 'Initial the app'
 $ git push heroku main # deploy code to heroku 
  
 ```
-### after deploy use heroku open to see your file
+### After deploy use ```heroku open``` to see your file
 
 #Final thoughts and future Impovement
 - ### As i told earlier git hub's branch is main so use main delete old branch and create new one
