@@ -12,4 +12,10 @@
   
   ![](https://github.com/prajwal470/Twitter-Live-Sentimental_Analysis_and_topic_tracking/blob/d010b640648343482ce69fb82e463e9d2c4e99a3/Untitled%20Diagram.drawio.png)
  
+ # Collecting Data
 
+### Collecting data is a necessary part of this project. I  used Twitter API to collect the data from the server . The Twitter API lets you read and write Twitter data. Thus, you can use it to compose tweets, read profiles, and access your followers’ data and a high volume of tweets on particular subjects in specific locations. API stands for Application Programming Interface. This software provides "middleman services" between two applications that want to communicate with each other. Any requests you make go to the server first and the response given comes through the same route. one can read documents of Twitter [here](https://developer.twitter.com/en/docs/twitter-api)
+
+## Twitter api
+
+### To get work with api we need some way to connect to the server 
