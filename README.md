@@ -85,10 +85,11 @@ database_table="TwitterDB"
 - ### You can learn about dash [here](https://dash.plotly.com/introduction)
 
 # Deploying
-### deployment is last part where you and other use your app simultaneously.
-### AWS, Google cloud, Microsoft Azure , heroku are some of the cloud pltforms that can be used for deployment.
-### before deploying you need to set up some files like procfile, requriments, runtime , if you are using nltk use nltk.txt and mention what to download
-## __If you are deploying using git hub Change your branch from master to main__
+- ### deployment is last part where you and other use your app simultaneously.
+- ### AWS, Google cloud, Microsoft Azure , heroku are some of the cloud pltforms that can be used for deployment.
+- ### before deploying you need to set up some files like procfile, requriments, runtime , if you are using nltk use nltk.txt and mention what to download
+- ## __If you are deploying using git hub Change your branch from master to main__
+
 
 
 
