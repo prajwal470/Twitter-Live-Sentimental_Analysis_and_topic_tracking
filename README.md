@@ -90,12 +90,16 @@ database_table="TwitterDB"
 - ### before deploying you need to set up some files like procfile, requriments, runtime , if you are using nltk use nltk.txt and mention what to download
 - ## __If you are deploying using git hub Change your branch from master to main__
 
-## heroku
+## Heroku
 - ### Heroku is a container-based cloud platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps you can learn about heroku [here](https://devcenter.heroku.com/categories/reference). You can deploy a free app here.
 - ### create an heroku account and create app by giving name that you want.
 - ### You can deploy using github or by pushing from loacl drive
 - ### you need  Heroku CLI, Download and install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
 - ### login though cmd in windows and use git bash to push
+
+## login and deployment
+- ## login through cmd ![](https://user-images.githubusercontent.com/68987382/164972506-4df885b5-33ed-49d7-ad81-eeeee922826a.png)
+- ## use git bash form deployment ![](https://user-images.githubusercontent.com/68987382/164972534-ff39b0aa-b89b-46b4-92b9-0d17db190bfd.png)
 
 
 
