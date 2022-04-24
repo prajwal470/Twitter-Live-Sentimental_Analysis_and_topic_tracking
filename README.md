@@ -99,9 +99,9 @@ database_table="TwitterDB"
 
 ## login and deployment
 - ## login through cmd 
-- ![](https://user-images.githubusercontent.com/68987382/164972506-4df885b5-33ed-49d7-ad81-eeeee922826a.png)
+ ![](https://user-images.githubusercontent.com/68987382/164972506-4df885b5-33ed-49d7-ad81-eeeee922826a.png)
 - ## use git bash form deployment 
-- ![](https://user-images.githubusercontent.com/68987382/164972534-ff39b0aa-b89b-46b4-92b9-0d17db190bfd.png)
+ ![](https://user-images.githubusercontent.com/68987382/164972534-ff39b0aa-b89b-46b4-92b9-0d17db190bfd.png)
 
 ```
 mkdir folder name
