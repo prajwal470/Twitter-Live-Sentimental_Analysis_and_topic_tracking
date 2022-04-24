@@ -8,7 +8,7 @@
 
 # Abstract View
   
-  this project consist of three parts collecting data , transforming Data , deploying
+ ## This project consist of three parts collecting data , transforming Data , deploying
   
   ![](https://github.com/prajwal470/Twitter-Live-Sentimental_Analysis_and_topic_tracking/blob/d010b640648343482ce69fb82e463e9d2c4e99a3/Untitled%20Diagram.drawio.png)
  
