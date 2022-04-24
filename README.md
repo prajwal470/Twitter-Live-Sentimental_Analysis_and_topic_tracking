@@ -10,8 +10,6 @@
   
   this project consist of three parts collecting data , transforming Data , deploying
   
-  
-  collecting data from twitter API
-  
+  https://github.com/prajwal470/Twitter-Live-Sentimental_Analysis_and_topic_tracking/blob/main/Untitled%20Diagram.drawio.png
  
 
