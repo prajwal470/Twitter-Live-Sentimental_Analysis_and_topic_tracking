@@ -19,13 +19,13 @@
 ## Twitter api
 
 ### To get work with api we need some way to connect to the server to connect Go to http://apps.twitter.com and create an app hear consumer key and secret will be generated for you
-  '''
+  ```
+  
   API_KEY = "XXXXXXXXXXXXXX"
   API_SECRET_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-
-  # After the step above, you will be redirected to your app's page.
-  # Create an access token under the the "Your access token" section
+  After the step above, you will be redirected to your app's page.
+  Create an access token under the the "Your access token" section
   ACCESS_TOEKN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   ACCESS_TOKEN_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   
-  '''
+  ```
