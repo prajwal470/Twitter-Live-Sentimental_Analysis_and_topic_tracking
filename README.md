@@ -98,8 +98,10 @@ database_table="TwitterDB"
 - ### login though cmd in windows and use git bash to push
 
 ## login and deployment
-- ## login through cmd ![](https://user-images.githubusercontent.com/68987382/164972506-4df885b5-33ed-49d7-ad81-eeeee922826a.png)
-- ## use git bash form deployment ![](https://user-images.githubusercontent.com/68987382/164972534-ff39b0aa-b89b-46b4-92b9-0d17db190bfd.png)
+- ## login through cmd 
+- ![](https://user-images.githubusercontent.com/68987382/164972506-4df885b5-33ed-49d7-ad81-eeeee922826a.png)
+- ## use git bash form deployment 
+- ![](https://user-images.githubusercontent.com/68987382/164972534-ff39b0aa-b89b-46b4-92b9-0d17db190bfd.png)
 
 ```
 mkdir folder name
@@ -111,14 +113,14 @@ $ source venv/bin/activate # uses the virtualenv
 $ Heroku git: remote -a THIS-IS-YOUR-APP-NAME
 
 ```
-### Create fresh python modulse inside new env
+- ### Create fresh python modulse inside new env
 
 ```
 $ pip install dash 
 $ pip install plotly
 $ pip install gunicorn
 ```
-### after creating requried files Procfile,requriment,runtime.
+- ### after creating requried files Procfile,requriment,runtime.
  ```
  Deploy app
 $ heroku create THIS-IS-YOUR-UNIQUE-APP-NAME
@@ -127,9 +129,9 @@ $ git commit -m 'Initial the app'
 $ git push heroku main # deploy code to heroku 
  
 ```
-### After deploy use ```heroku open``` to see your file
+- ### After deploy use ```heroku open``` to see your file
 
-#Final thoughts and future Impovement
+# Final thoughts and future Impovement
 - ### As i told earlier git hub's branch is main so use main delete old branch and create new one
 - ### ``` git checkout -b main ``` and to delete ```git branch -D master``` 
 - ### nltk.txt file must be created for to download stopwords and putnk
