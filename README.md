@@ -67,7 +67,15 @@ database_table="TwitterDB"
 ## Other csv and data files
 - ### You want other data set like city name's and state names
 - ### you need geoJson file for different country
-- Importing modulse and installing all the requriments 
+- ### Importing modulse and installing all the requriments 
+
+# Developing
+- ### creating a web app using Dash. Dash is a productive Python framework for building web applications. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
+- ### getting Data from MySQL server and applying Textblob to create polarity which further used to decide the sentiment of an tweet 
+- ### use Ploty to visualization the data 
+
+## Ploty image of final visualization
+
 
  
  
