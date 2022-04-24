@@ -76,6 +76,13 @@ database_table="TwitterDB"
 
 ## Ploty image of final visualization
   ![demo](https://user-images.githubusercontent.com/68987382/164971389-0bae6aba-4778-498c-8c77-459366941157.png)
+  
+## Creating Dash Application
+
+### why dash ??
+- ### Dash is simple enough that you can bind a user interface to your code in less than 10 minutes.
+- ### Dash apps are rendered in the web browser. You can deploy your apps to VMs or Kubernetes clusters and then share them through URLs. Since Dash apps are viewed in       the web browser, Dash is inherently cross-platform and mobile ready.
+- ### You can learn about dash [here](https://dash.plotly.com/introduction)
 
 
  
