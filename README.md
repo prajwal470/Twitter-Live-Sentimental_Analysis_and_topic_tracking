@@ -75,6 +75,7 @@ database_table="TwitterDB"
 - ### use Ploty to visualization the data 
 
 ## Ploty image of final visualization
+  ![](![demo](https://user-images.githubusercontent.com/68987382/164971389-0bae6aba-4778-498c-8c77-459366941157.png))
 
 
  
