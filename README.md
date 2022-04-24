@@ -16,7 +16,7 @@
 
 ### Collecting data is a necessary part of this project. I  used Twitter API to collect the data from the server . The Twitter API lets you read and write Twitter data. Thus, you can use it to compose tweets, read profiles, and access your followers’ data and a high volume of tweets on particular subjects in specific locations. API stands for Application Programming Interface. This software provides "middleman services" between two applications that want to communicate with each other. Any requests you make go to the server first and the response given comes through the same route. one can read documents of Twitter [here](https://developer.twitter.com/en/docs/twitter-api)
 
-## Twitter api
+## Twitter API
 
 ### To get work with api we need some way to connect to the server to connect Go to http://apps.twitter.com and create an app hear consumer key and secret will be generated for you
   ```
@@ -29,3 +29,19 @@
   ACCESS_TOKEN_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   
   ```
+ ## Cleaning Data
+ 
+ ### Cleaning data before pushing to SQl server and making the data easy to read as the data will be unstructured and filled with unwanted emojies.
+ pyspark or pandas can be used here I used pandas but i suggest spak becasuse it is better 
+ 
+ 
+ ## point's to note and other Information
+ - ## Getting User location is hard as some user dont mention the loaction
+ - ## user id and user name is always different so it is best to use user id
+ - ## City names may be changed or have differnt name for same city eg banglore and begaluru
+ - ## while installing modules don't mix pip and conda :sweat_smile: 
+ - ## best to do project in new envirnoment
+ 
+ 
+ 
+ 
