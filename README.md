@@ -12,6 +12,8 @@
   
   ![](https://github.com/prajwal470/Twitter-Live-Sentimental_Analysis_and_topic_tracking/blob/0c585506bb285a74a9b13a18d8d62c1207c93688/Untitled%20Diagram.drawio.png)
  
+ 
+ 
  # Collecting Data.
 
 ### Collecting data is a necessary part of this project. I  used Twitter API to collect the data from the server . The Twitter API lets you read and write Twitter data. Thus, you can use it to compose tweets, read profiles, and access your followers’ data and a high volume of tweets on particular subjects in specific locations. API stands for Application Programming Interface. This software provides "middleman services" between two applications that want to communicate with each other. Any requests you make go to the server first and the response given comes through the same route. one can read documents of Twitter [here](https://developer.twitter.com/en/docs/twitter-api).
@@ -69,6 +71,8 @@ database_table="TwitterDB"
 - ### you need geoJson file for different country.
 - ### Importing modulse and installing all the requriments. 
 
+
+
 # Developing.
 - ### creating a web app using Dash. Dash is a productive Python framework for building web applications. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
 - ### getting Data from MySQL server and applying Textblob to create polarity which further used to decide the sentiment of an tweet 
@@ -83,6 +87,8 @@ database_table="TwitterDB"
 - ### Dash is simple enough that you can bind a user interface to your code in less than 10 minutes.
 - ### Dash apps are rendered in the web browser. You can deploy your apps to VMs or Kubernetes clusters and then share them through URLs. Since Dash apps are viewed in       the web browser, Dash is inherently cross-platform and mobile ready.
 - ### You can learn about dash [here](https://dash.plotly.com/introduction).
+
+
 
 # Deploying
 - ### deployment is last part where you and other use your app simultaneously.
