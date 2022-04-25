@@ -63,7 +63,7 @@ database_table="TwitterDB"
 ```
 ## Input Search_words.
 
-### It can be anyting the you waant to search . As i am learning flask. I will impliment instant search and get analysis mehond Soon :smile:
+### It can be anyting the you waant to search . As i am learning flask. I will impliment instant search and get analysis methond Soon :smile:
 ### For demo i used IPl as it was IPl season.
 
 ## Other csv and data files.
@@ -142,4 +142,5 @@ $ git push heroku main # deploy code to heroku
 - ### ``` git checkout -b main ``` and to delete ```git branch -D master``` 
 - ### nltk.txt file must be created for to download stopwords and putnk
 - ### if app is craching means that twitter rate is reached so you cannot use it until a day
+
  
